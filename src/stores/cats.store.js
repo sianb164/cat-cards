@@ -108,12 +108,6 @@ export default [
       "The Korat’s general appearance is of a silver blue cat with a heavy silver sheen, medium sized, hard bodied, and muscular. This cat is all smooth curves, with huge eyes that are luminous, alert, and expressive. The breed has a perfect physical condition and alert appearance.",
   },
   {
-    name: "LaPerm",
-    image: "assets/cats/laperm.jpg",
-    description:
-      "The LaPerm breed is a naturally occurring mutation producing curly coats in both long- and shorthaired cats. They are medium sized, of moderate type. All parts of body are in harmony with the size of cat. This breed matures in two to three years.",
-  },
-  {
     name: "Maine Coon",
     image: "assets/cats/maine-coon.jpg",
     description:

@@ -57,3 +57,14 @@
   padding: 25px;
   font-size: 15px;
 }
+
+.Card footer {
+  background-color: var(--color-primary);
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
+.Card footer a {
+  color: white;
+}
